@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\AnkitaBagwe\eclipse-workspace\GROCERY_MANAGEMENT_SYSTEM\GROCERY_MANAGEMENT_SYSTEM\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1716233455.index
+2763031541.index
+1823892198.index
+3271193799.index
+489293468.index
